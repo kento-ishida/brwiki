@@ -11,7 +11,7 @@ coauthor:
 
 {% note primary %}
 
-今まで発表した，あるいはGROUPDから様々な有用なTIPSをまとめた．
+今まで発表した，あるいはGROUPDから様々な有用なTIPSをまとめました．
 
 {% endnote %}
 
@@ -25,3 +25,8 @@ coauthor:
 
 <!-- [材料構成側](/doc/abaqus-tips/constitutive-equation-materials.html) -->
 [材料構成側](./constitutive-equation-materials.html 'class=red&target=_blank&data-layout=card')
+
+## 解析モデル作成
+
+<!-- [要素の除去と追加](/doc/abaqus-tips/constitutive-equation-materials.html) -->
+[要素の除去と追加](./constitutive-equation-materials.html 'class=red&target=_blank&data-layout=card')
